@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.20.3
 
 ENV NODE_VERSION 22.9.0
 
